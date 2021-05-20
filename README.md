@@ -1,6 +1,9 @@
 # busysleep
 A miniature package with auto-calibration to use busy wait. 
 
+# installation
+```pip install busysleep```
+
 # usage: 
 ```pip install busysleep
 
